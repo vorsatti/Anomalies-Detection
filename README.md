@@ -4,7 +4,7 @@ This project uses the isolation forest to find anomalies in the hourly volume of
 
 ## IPython Notebooks:
 
-- [Envelope Strategy](https://nbviewer.jupyter.org/github/vorsatti/Anomalies-Detection/blob/master/Anomaly%20Detection.ipynb)
+- [Anomaly Detection](https://nbviewer.jupyter.org/github/vorsatti/Anomalies-Detection/blob/master/Anomaly%20Detection.ipynb)
 
 #### Conclusion:
 
