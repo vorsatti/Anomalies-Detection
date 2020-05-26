@@ -1,4 +1,4 @@
-## Algorithmic Trading
+## Anomaly Detection
 
 This project uses the isolation forest to find anomalies in the hourly volume of Eur/Usd.
 
